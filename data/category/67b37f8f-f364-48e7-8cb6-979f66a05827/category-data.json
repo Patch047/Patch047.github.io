@@ -1,0 +1,18 @@
+{
+  "id": "67b37f8f-f364-48e7-8cb6-979f66a05827",
+  "name": "Eita hela nua category",
+  "coverImage": "",
+  "tagLine": "Acha hau",
+  "description": "Jaunu MG",
+  "featuredBlog": "c156e267-c7e7-4c1c-9e0c-9bab90840f27",
+  "blogMetadata": [
+    {
+      "id": "c156e267-c7e7-4c1c-9e0c-9bab90840f27",
+      "name": "Han hau",
+      "description": "Kahili para...hau",
+      "coverImage": "blog/c156e267-c7e7-4c1c-9e0c-9bab90840f27/media/c1cCA2c156e267-c7e7-4c1c-9e0c-9bab90840f27montasar-feydi-fr4.jpg",
+      "tagLine": "Tate gehi debi",
+      "parentCategory": "67b37f8f-f364-48e7-8cb6-979f66a05827"
+    }
+  ]
+}
